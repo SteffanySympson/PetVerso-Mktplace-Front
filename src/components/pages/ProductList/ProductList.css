@@ -1,0 +1,17 @@
+.list-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.destaque{
+    size: 50px;
+    position: relative;
+    text-align: center;
+    color: rgb(87, 87, 87);
+    margin-top: 20px;
+    text-shadow: 0.1em 0.1em 0.2em rgb(255, 255, 255);
+    font-weight: bold;
+}

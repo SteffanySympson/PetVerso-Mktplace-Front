@@ -1,0 +1,98 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.bar {
+	background: #fff;
+	border-bottom: 1px solid #dfe3e8;
+	border-radius: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+}
+
+.menus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    
+}
+
+.btn-topo{
+    background: #f0fafd;
+    color: #5691ff;
+    border-radius: 15px;
+    line-height: 35px;
+    font-weight: bold;
+    font-size: medium;
+    text-decoration: none;
+    outline: 0;
+    max-width: 100%;
+    size: 100px;
+    width: 100px;
+    border-color: #727f8a;
+    opacity: 1;
+    margin: 0px 10px 0px 0px;
+}
+
+.cart-icon{
+    margin: 0px 10px 0px 0px;
+}
+	
+.btn-topo:hover{
+	transition: ease-in-out 0.3s;
+	opacity: 0.8;
+}
+
+.logo-topo{
+    width: 280px;
+    margin: 0px 0px 0px 0px;
+}
+
+.menu1 {
+    margin: 0 20px 0 0px;
+    transition: ease-in-out 0.3s;
+    text-decoration: none;
+    color: #FD8C41;
+	font-size: 22px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.menu1:hover{
+    color: rgb(238, 231, 132);
+	text-decoration: none;
+}
+
+.menu2 {
+    margin: 0 20px 0 0px;
+    text-align: center;
+    transition: ease-in-out 0.3s;
+    text-decoration: none;
+    color: #03AEA2;
+	font-size: 22px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.menu2:hover{
+    color: rgb(69, 248, 150);
+	text-decoration: none;
+}
+
+.menu3 {
+    margin: 0 20px 0 0px;
+    text-align: center;
+    transition: ease-in-out 0.3s;
+    text-decoration: none;
+    color: #d170f7;
+	font-size: 22px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.menu3:hover:hover{
+    color: rgb(236, 165, 230);
+	text-decoration: none;
+}
